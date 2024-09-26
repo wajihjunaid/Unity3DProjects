@@ -105,5 +105,12 @@ Check out the gameplay in action:
 ## 👨‍💻 About Me
 
 I'm **Wajih Junaid**, a game developer with 10 years of experience specializing in Unity3D and Unreal Engine. My expertise spans gameplay mechanics, system design, and multiplayer game development.  
-- [LinkedIn](https://example.com)  
-- [Portfolio](https://example.com)
+- [LinkedIn](https://www.linkedin.com/in/wajih-junaid/)
+- [Portfolio](http://www.wajihjunaid.info)
+
+---
+
+## 📷 Screenshots
+
+![Gameplay Screenshot](/gameplay.png)
+![Inventory Screenshot](/inventory.png)
